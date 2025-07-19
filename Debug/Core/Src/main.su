@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm7.h:2156:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/main.c:141:5:main	16	static,ignoring_inline_asm
+../Core/Src/main.c:418:6:SystemClock_Config	120	static
+../Core/Src/main.c:478:6:PeriphCommonClock_Config	192	static
+../Core/Src/main.c:502:6:FPU_IRQ_CallBack	16	static
+../Core/Src/main.c:508:6:HAL_TIM_PeriodElapsedCallback	32	static
+../Core/Src/main.c:572:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:583:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:601:6:HAL_I2C_MemTxCpltCallback	16	static
+../Core/Src/main.c:606:6:HAL_I2C_MemRxCpltCallback	56	static
+../Core/Src/main.c:719:6:HAL_SPI_TxCpltCallback	16	static
+../Core/Src/main.c:723:6:HAL_SPI_RxCpltCallback	16	static
+../Core/Src/main.c:730:6:MPU_Config	24	static
+../Core/Src/main.c:761:6:Error_Handler	4	static,ignoring_inline_asm

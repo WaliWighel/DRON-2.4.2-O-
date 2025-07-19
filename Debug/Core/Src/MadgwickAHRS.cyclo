@@ -1,0 +1,4 @@
+../Core/Src/MadgwickAHRS.c:43:6:MadgwickAHRSupdate	7
+../Core/Src/MadgwickAHRS.c:142:6:MadgwickAHRSupdateIMU	4
+../Core/Src/MadgwickAHRS.c:214:7:invSqrt	1
+../Core/Src/MadgwickAHRS.c:225:6:Madgwick_Get_Angles	1
